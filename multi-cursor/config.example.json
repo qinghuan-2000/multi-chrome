@@ -1,0 +1,16 @@
+{
+  "WebUrl": [
+    "https://www.baidu.com",
+    "https://cn.bing.com/"
+  ],
+  "BrowserKernelRootPath": "D:\\Desktop\\multi-chrome",
+  "OutputExcelPath": "./lcp-report.xlsx",
+  "UseTimestampFileName": true,
+  "Headless": true,
+  "WaitUntil": "load",
+  "WarmupCount": 0,
+  "RepeatCount": 5,
+  "WaitAfterLoadMs": 1000,
+  "DisableCache": true,
+  "NavigationTimeoutMs": 45000
+}

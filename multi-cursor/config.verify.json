@@ -1,0 +1,9 @@
+{
+  "WebUrl": [
+    "https://www.baidu.com"
+  ],
+  "BrowserKernelRootPath": "D:\\Desktop\\multi-chrome",
+  "OutputExcelPath": "./lcp-report-verify.xlsx",
+  "WaitAfterLoadMs": 10000,
+  "NavigationTimeoutMs": 145000
+}

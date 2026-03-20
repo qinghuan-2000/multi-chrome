@@ -1,0 +1,9 @@
+{
+  "webUrls": [
+    "https://www.baidu.com",
+    "https://cn.bing.com/"
+  ],
+  "browserDir": "D:\\Desktop\\multi-chrome",
+  "outputPath": "./lcp-results.xlsx",
+  "testCount": 5
+}
